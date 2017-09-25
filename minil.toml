@@ -1,0 +1,4 @@
+name = "RPi-UnicornHatHD"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+license="artistic_2"
