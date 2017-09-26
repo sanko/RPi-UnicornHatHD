@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Use Pimoroni's Awesome Unicorn HAT HD in Perl",
    "author" : [
       "Sanko Robinson <sanko@cpan.org>"
    ],
