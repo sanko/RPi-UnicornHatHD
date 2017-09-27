@@ -8,11 +8,7 @@ RPi::UnicornHatHD - Use Pimoroni's Awesome Unicorn HAT HD in Perl
         my $display = RPi::UnicornHatHD->new();
         while (1) { # Mini rave!
                 $display->set_all(sprintf '#%06X', int rand(hex 'FFFFFF'));
-                for (0 .. 100) {
-                        $display->brightness($_ / 100);
-                        $display->show();
-                }
-                for (reverse 0 .. 100) {
+                for (0 .. 100, reverse 0 .. 100) {
                         $display->brightness($_ / 100);
                         $display->show();
                 }
@@ -114,9 +110,9 @@ Outputs the contents of the matrix buffer to your Unicorn HAT HD.
 
 # SEE ALSO
 
-- Buy one: http://shop.pimoroni.com/products/unicorn-hat-hd
-- GPIO Pinout: http://pinout.xyz/pinout/unicorn\_hat\_hd
-- Github: https://github.com/sanko/RPi-UnicornHatHD
+- Buy one: [http://shop.pimoroni.com/products/unicorn-hat-hd](http://shop.pimoroni.com/products/unicorn-hat-hd)
+- GPIO Pinout: [http://pinout.xyz/pinout/unicorn\_hat\_hd](http://pinout.xyz/pinout/unicorn_hat_hd)
+- Github: [https://github.com/sanko/RPi-UnicornHatHD](https://github.com/sanko/RPi-UnicornHatHD)
 
 # LICENSE
 

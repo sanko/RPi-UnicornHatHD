@@ -211,11 +211,11 @@ Outputs the contents of the matrix buffer to your Unicorn HAT HD.
 
 =over
 
-=item * Buy one: http://shop.pimoroni.com/products/unicorn-hat-hd
+=item * Buy one: L<http://shop.pimoroni.com/products/unicorn-hat-hd>
 
-=item * GPIO Pinout: http://pinout.xyz/pinout/unicorn_hat_hd
+=item * GPIO Pinout: L<http://pinout.xyz/pinout/unicorn_hat_hd>
 
-=item * Github: https://github.com/sanko/RPi-UnicornHatHD
+=item * Github: L<https://github.com/sanko/RPi-UnicornHatHD>
 
 =back
 
