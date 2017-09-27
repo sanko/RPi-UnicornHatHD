@@ -4,7 +4,7 @@ use Moo;
 use strictures 2;
 use namespace::clean;
 #
-our $VERSION = "0.02";
+our $VERSION = "0.03";
 #
 use WiringPi::API;
 #
