@@ -107,16 +107,11 @@ RPi::UnicornHatHD - Use Pimoroni's Awesome Unicorn HAT HD in Perl
 	my $display = RPi::UnicornHatHD->new();
 	while (1) { # Mini rave!
 		$display->set_all(sprintf '#%06X', int rand(hex 'FFFFFF'));
-		for (0 .. 100) {
-			$display->brightness($_ / 100);
-			$display->show();
-		}
-		for (reverse 0 .. 100) {
+		for (0 .. 100, reverse 0 .. 100) {
 			$display->brightness($_ / 100);
 			$display->show();
 		}
 	}
-
 
 =head1 DESCRIPTION
 
