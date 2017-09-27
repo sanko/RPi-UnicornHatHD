@@ -115,7 +115,7 @@ RPi::UnicornHatHD - Use Pimoroni's Awesome Unicorn HAT HD in Perl
 
 =head1 DESCRIPTION
 
-Pimoroni's Unicorn HAT HD crams 256 RGB LEDs, in a 16x16 matrix, onto a single HAT. Use it for scrolling news or stock quotes. Mount it somewhere as a mood light. Build a binary clock. Uh. I don't know, you'll think of something.
+Pimoroni's Unicorn HAT HD crams 256 RGB LEDs, in a 16x16 matrix, onto a single HAT for your Raspberry Pi. Use it for scrolling news or stock quotes. Mount it somewhere as a mood light. Build a binary clock. Uh. I don't know, you'll think of something.
 
 =head1 METHODS
 

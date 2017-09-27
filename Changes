@@ -2,6 +2,9 @@ Revision history for Perl extension RPi-UnicornHatHD
 
 {{$NEXT}}
 
+	- Include correct LICENSE
+	- Clean up docs and examples a little
+
 0.02 2017-09-27T00:50:56Z
 
 	- Adding demo scripts
