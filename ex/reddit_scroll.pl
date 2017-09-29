@@ -32,7 +32,7 @@ while (1) {
             = $img->align_string(font   => $font,
                                  text   => $title,
                                  x      => 16,
-                                 y      => 4,
+                                 y      => 2,
                                  halign => 'left',
                                  valign => 'top',
                                  aa     => 1
