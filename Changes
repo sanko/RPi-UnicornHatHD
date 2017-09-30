@@ -2,6 +2,8 @@ Revision history for Perl extension RPi-UnicornHatHD
 
 {{$NEXT}}
 
+0.05 2017-09-30T04:54:53Z
+
 	- Automatically size image for text length in reddit scroll example
 
 0.04 2017-09-29T17:20:29Z
