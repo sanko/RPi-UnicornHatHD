@@ -3,6 +3,7 @@ on 'test' => sub {
 };
 
 requires 'RPi::WiringPi';
+requires 'WiringPI::API';
 requires 'Moo';
 requires 'strictures';
 requires 'namespace::clean';
