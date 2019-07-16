@@ -2,6 +2,10 @@ Revision history for Perl extension RPi-UnicornHatHD
 
 {{$NEXT}}
 
+	- Adding demo script
+		- ex/tetris.pl - Cheap tetris clone
+	- Correcting prereq
+
 0.05 2017-09-30T04:54:53Z
 
 	- Automatically size image for text length in reddit scroll example
