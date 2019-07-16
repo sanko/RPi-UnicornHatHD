@@ -2,6 +2,8 @@ Revision history for Perl extension RPi-UnicornHatHD
 
 {{$NEXT}}
 
+0.06 2019-07-16T03:54:32Z
+
 	- Adding demo script
 		- ex/tetris.pl - Cheap tetris clone
 	- Correcting prereq
