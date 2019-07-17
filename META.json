@@ -66,7 +66,7 @@
          "web" : "https://github.com/sanko/RPi-UnicornHatHD"
       }
    },
-   "version" : "0.06",
+   "version" : "0.07",
    "x_serialization_backend" : "JSON::PP version 4.02",
    "x_static_install" : 1
 }
